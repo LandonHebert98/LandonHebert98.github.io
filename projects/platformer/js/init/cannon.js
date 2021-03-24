@@ -26,16 +26,20 @@
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
-        // example: 
-        createCannon("top", 450, 100);
-        createCannon("top", 450, 500);
+        // example:
+
         createCannon("top", 450, 999);
-        createCannon("left", 385, 809);
-        //createCannon("left", 385, 200); could still beat the level but it made the game too hard 
-         createCannon("left", 244, 2000);
-        createCannon("top", 840);
-        createCannon("top", 840, 600);
+        createCannon("left", 244, 2000);
         createCannon("top", 840, 999);
+
+
+        //Remove or add the //s to make the game harder or easier
+        //createCannon("top", 450, 100);
+        //createCannon("top", 450, 500);
+        //createCannon("left", 385, 809); 
+        createCannon("left", 385, 200); 
+        //createCannon("top", 840);
+        createCannon("top", 840, 600);
 
 
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
