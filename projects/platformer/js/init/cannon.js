@@ -34,11 +34,11 @@
 
 
         //Remove or add the //s to make the game harder or easier
-        //createCannon("top", 450, 100);
-        //createCannon("top", 450, 500);
-        //createCannon("left", 385, 809); 
+        //createCannon("top", 450, 100);   //
+        //createCannon("top", 450, 500);   //
+        //createCannon("left", 385, 809);  //
         createCannon("left", 385, 200); 
-        //createCannon("top", 840);
+        //createCannon("top", 840);        //
         createCannon("top", 840, 600);
 
 

@@ -42,7 +42,7 @@
         createPlatform(590, 600, 0.3);
         createPlatform(1, 480, 0.4);
         createPlatform(760, 330, 0.5);
-        createPlatform(470, 230, 0.4);   // createPlatform(525, 230, 0.2); swap out code for this for hard mode
+        createPlatform(470, 230, 0.4);   //swap out code for this for hard mode createPlatform(525, 230, 0.2);
         createPlatform(150, 170, 0.4);   //createPlatform(195, 170, 0.2);
         createPlatform(760, 480, 0.5);
         createPlatform(535, 100, 0.9);
