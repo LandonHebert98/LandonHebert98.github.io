@@ -107,17 +107,18 @@ var background = function (window) {
 
 
             
-            // TODO 5: Part 2 - Parallax
+            // TODO 5: Part 2 - Paralax
             
             for (var i = 0; i < buildings.length; i++) {
             var eachElement = buildings[i];
 
-            eachElement.x = eachElement.x - 1;
+                eachElement.x = eachElement.x - 0.5;
 
-            if(eachElement.x < -130) {
-            eachElement.x = canvasWidth;
-            }     
+                if(eachElement.x < -130) {
+                eachElement.x = canvasWidth;
+                }     
             }
+ 
 
 
         } // end of update function - DO NOT DELETE
